@@ -1,0 +1,11 @@
+C:\qubeyond_test\qubeyond_test\bin\release\netcoreapp2.2\qubeyond_test.deps.json
+C:\qubeyond_test\qubeyond_test\bin\release\netcoreapp2.2\qubeyond_test.runtimeconfig.json
+C:\qubeyond_test\qubeyond_test\bin\release\netcoreapp2.2\qubeyond_test.runtimeconfig.dev.json
+C:\qubeyond_test\qubeyond_test\bin\release\netcoreapp2.2\qubeyond_test.dll
+C:\qubeyond_test\qubeyond_test\bin\release\netcoreapp2.2\qubeyond_test.pdb
+C:\qubeyond_test\qubeyond_test\obj\release\netcoreapp2.2\qubeyond_test.csprojAssemblyReference.cache
+C:\qubeyond_test\qubeyond_test\obj\release\netcoreapp2.2\qubeyond_test.csproj.CoreCompileInputs.cache
+C:\qubeyond_test\qubeyond_test\obj\release\netcoreapp2.2\qubeyond_test.AssemblyInfoInputs.cache
+C:\qubeyond_test\qubeyond_test\obj\release\netcoreapp2.2\qubeyond_test.AssemblyInfo.cs
+C:\qubeyond_test\qubeyond_test\obj\release\netcoreapp2.2\qubeyond_test.dll
+C:\qubeyond_test\qubeyond_test\obj\release\netcoreapp2.2\qubeyond_test.pdb
